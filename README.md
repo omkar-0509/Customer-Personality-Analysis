@@ -28,7 +28,7 @@ matplotlib_visualization.ipynb
 seaborn_visualization.ipynb  
 plotly_3d_visualization.ipynb  
 README.md  
-
+ 
 ## Tools & Technologies
 - Python
 - NumPy

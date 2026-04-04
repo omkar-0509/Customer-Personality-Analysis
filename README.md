@@ -32,7 +32,7 @@ README.md
 ## Tools & Technologies
 - Python
 - NumPy
-- Pandas
+- Pandas 
 - Matplotlib
 - Seaborn
 - Plotly

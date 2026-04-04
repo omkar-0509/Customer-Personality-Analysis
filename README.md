@@ -15,7 +15,7 @@ The goal is to understand **customer behavior, spending patterns, and campaign p
 - 29 Features
 - Data Includes:
   - Customer Profile
-  - Income Information
+  - Income Information 
   - Product Spending
   - Purchase Behavior
   - Campaign Response

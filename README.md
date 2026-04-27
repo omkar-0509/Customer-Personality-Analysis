@@ -13,7 +13,7 @@ The goal is to understand **customer behavior, spending patterns, and campaign p
 ## Dataset
 - 2240 Customers
 - 29 Features
-- Data Includes:
+- Data Includes: 
   - Customer Profile
   - Income Information 
   - Product Spending

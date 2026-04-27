@@ -7,7 +7,7 @@ The goal is to understand **customer behavior, spending patterns, and campaign p
 - Understand customer demographics
 - Identify high-value customers
 - Analyze product spending behavior
-- Evaluate marketing campaign performance
+- Evaluate marketing campaign performance 
 - Improve business decision-making
 
 ## Dataset
